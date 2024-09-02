@@ -1,0 +1,8 @@
+.home {
+  h1 {
+    font-family: $font-primary;
+    font-weight: 300;
+    grid-column: content-start / content-end;
+    margin-top: 4rem;
+  }
+}
